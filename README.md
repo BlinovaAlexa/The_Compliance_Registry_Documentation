@@ -16,9 +16,8 @@
   - [Global](Global.md)
 - [Documents](Documents.md)
 - [Outgoing](Outgoing.md)
-- 
-  - [](.md)
-  - [](.md)
+- Diagnostic
+  - [Control Panel](ControlPanel.md)
 - 
   - [](.md)
   - [](.md)
