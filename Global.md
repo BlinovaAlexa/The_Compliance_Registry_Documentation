@@ -1,6 +1,7 @@
 # Global Network Search
 
-Text text
+Search allows the user to look for company,certification, version and status.  
+The results of the search will be displayed on the Global Network Search page.
 
 ![Global Network Search](/images/global1.jpg)
 
