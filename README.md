@@ -14,10 +14,14 @@
 - Network
   - [Linked](Linked.md)
   - [Global](Global.md)
+- [Documents](Documents.md)
 - 
   - [](.md)
   - [](.md)
-
+- 
+  - [](.md)
+  - [](.md)
+  - 
 
 You can use the [editor on GitHub](https://github.com/BlinovaAlexa/The_Compliance_Registry_Documentation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
