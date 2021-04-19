@@ -1,6 +1,7 @@
 # Compliance
 
-Text text
+Search allows the user to look for compliance name.  
+The results of the search will be displayed on the Compliance page.
 
 ![Compliance](/images/compliance1.jpg)
 
