@@ -1,3 +1,5 @@
+theme: jekyll-theme-slate
+
 defaults:
   # _docs
   - scope:
