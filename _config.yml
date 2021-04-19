@@ -1,1 +1,17 @@
 theme: jekyll-theme-slate
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Profile"
+        url: /Profile.md
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+        
