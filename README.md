@@ -8,7 +8,7 @@
 - Company
   - [Contacts](Contacts.md)
   - [Departments](Departments.md)
-  - [](.md)
+  - [Company](Company.md)
   - [](.md)
 
 
