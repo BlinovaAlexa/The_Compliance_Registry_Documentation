@@ -7,7 +7,7 @@
   - [Password](Password.md)
 - Company
   - [Contacts](Contacts.md)
-  - [](.md)
+  - [Departments](Departments.md)
   - [](.md)
   - [](.md)
 
