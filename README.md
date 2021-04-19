@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages 6
+## Welcome to GitHub Pages 7
 
 [a relative link](Profile.md)
 
