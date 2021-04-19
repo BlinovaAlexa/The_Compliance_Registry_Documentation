@@ -11,9 +11,9 @@
   - [Company](Company.md)
   - [Compliance](Compliance.md)
 - [My Risk](MyRisk.md)
-- 
-  - [](.md)
-  - [](.md)
+- Network
+  - [Linked](Linked.md)
+  - [Global](Global.md)
 - 
   - [](.md)
   - [](.md)
