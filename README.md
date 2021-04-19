@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages 7
 
-Menu:
+**Menu:**
 
 - Profile
   - [Profile](Profile.md)
