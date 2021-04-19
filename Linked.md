@@ -1,6 +1,7 @@
 # My Network
 
-Text text
+Search allows the user to look for company,certification, version and status.  
+The results of the search will be displayed on the My Network page.
 
 ![My Network](/images/mynetwork1.jpg)
 
