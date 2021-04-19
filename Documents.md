@@ -1,6 +1,7 @@
 # Documents
 
-Text text
+Search allows the user to look for type, version, exp date or contact.  
+The results of the search will be displayed on the Documents page.
 
 ![Documents](/images/documents1.jpg)
 
