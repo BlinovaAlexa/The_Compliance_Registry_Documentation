@@ -1,6 +1,19 @@
 ## Welcome to GitHub Pages 7
 
-[a relative link](Profile.md)
+Menu:
+
+Profile
+  [Profile](Profile.md)
+  [Password](Password.md)
+Company
+  [](.md)
+  [](.md)
+  [](.md)
+  [](.md)
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/BlinovaAlexa/The_Compliance_Registry_Documentation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
