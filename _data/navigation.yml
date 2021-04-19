@@ -1,6 +1,0 @@
-# documentation links
-docs:
-  - title: Getting Started
-    children:
-      - title: "Profile"
-        url: /Profile.md
