@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages 4
 
-sidebar:
-  nav: "docs"
-
 [a relative link](Profile.md)
 
 You can use the [editor on GitHub](https://github.com/BlinovaAlexa/The_Compliance_Registry_Documentation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
