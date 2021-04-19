@@ -1,6 +1,3 @@
-theme: jekyll-theme-slate
-
-
 sidebar:
-  title: "Test test"
-        
+  title: "Sample Title"
+  nav: sidebar-sample
