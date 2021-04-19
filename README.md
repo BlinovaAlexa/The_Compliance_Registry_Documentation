@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages 2
+## Welcome to GitHub Pages 3
+
+sidebar:
+  nav: "docs"
 
 [a relative link](Profile.md)
 
