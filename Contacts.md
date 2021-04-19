@@ -1,6 +1,7 @@
 # Contacts
 
-Text text
+Search allows the user to look for name, email, title, phone, address, department.  
+The results of the search will be displayed on the Contacts page.
 
 ![Contacts](/images/contacts1.jpg)
 
