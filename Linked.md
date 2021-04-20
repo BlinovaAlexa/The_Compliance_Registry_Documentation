@@ -17,7 +17,7 @@ Also user could view contact for any company
 
 ![View Contact](/images/mynetwork3.jpg)
 
-Unlink icon allows user to remove the document from your network
+Unlink icon allows user to remove the document from his network
 
 ![Unlink](/images/mynetwork4.jpg)
 
