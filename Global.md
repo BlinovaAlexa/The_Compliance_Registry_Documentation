@@ -33,6 +33,10 @@ From the View Company page, requests for compliance can be sent.
 
 When a request is sent to an Affiliate, they will create a profile and share their required certificate.
 
+Also user could view contact for any document
+
+![View Contact](/images/global7.jpg)
+
 Unlink icon allows user to remove the document from his network
 
 ![Unlink](/images/global8.jpg)
