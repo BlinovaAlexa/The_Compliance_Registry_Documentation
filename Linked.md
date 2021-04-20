@@ -7,14 +7,16 @@ The results of the search will be displayed on the My Network page.
 
 ## Add Affiliates
 
-Text text
+On the My Network page, the user can add new Affiliates and request their compliance by clicking the Add Affiliates button.  
 
 ![Add Affiliates](/images/mynetwork2.jpg)
 
-View contact
+Also user could view contact for any company
+
 ![View Contact](/images/mynetwork3.jpg)
 
-Unlink
+Unlink icon allows user to remove the document from your network
+
 ![Unlink](/images/mynetwork4.jpg)
 
 ## View Linked Company
