@@ -15,12 +15,12 @@ When a request is sent to an Affiliate, they will create a profile and share the
 
 # Edit Request
 
-Text text
+User could edit any request using the Edit icon.
 
 ![Edit Request](/images/outgoing3.jpg)
 
 # Delete Request
 
-Text text
+User could delete any request using the Delete icon.
 
 ![Delete Request](/images/outgoing4.jpg)
