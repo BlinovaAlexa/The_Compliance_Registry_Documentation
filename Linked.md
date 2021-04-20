@@ -13,7 +13,7 @@ On the My Network page, the user can add new Affiliates and request their compli
 
 ![Add Affiliates](/images/mynetwork2.jpg)
 
-Also user could view contact for any company
+Also user could view contact for any document
 
 ![View Contact](/images/mynetwork3.jpg)
 
@@ -34,6 +34,10 @@ From the View Company page, requests for compliance can be sent.
 ![Request Compliance](/images/mynetwork6.jpg)
 
 When a request is sent to an Affiliate, they will create a profile and share their required certificate.
+
+Also user could view contact for any document
+
+![View Contact](/images/mynetwork7.jpg)
 
 Unlink icon allows user to remove the document from his network
 
