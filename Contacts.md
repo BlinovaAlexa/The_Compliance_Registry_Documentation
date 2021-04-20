@@ -7,7 +7,7 @@ The results of the search will be displayed on the Contacts page.
 
 ## Add New Contact
 
-Text text
+User could add a new contact using the New button.
 
 ![Add Contact](/images/contacts2.jpg)
 
@@ -19,12 +19,12 @@ Contacts can be invited to the system via the Contacts page by clicking Invite C
 
 ## Edit Contact
 
-Text text
+User could edit any new contact using the Edit icon.
 
 ![Edit Contact](/images/contacts3.jpg)
 
 ## Delete Contact
 
-Text text
+User could delete any new contact using the Delete icon.
 
 ![Delete Contact](/images/contacts5.jpg)
