@@ -19,12 +19,12 @@ Contacts can be invited to the system via the Contacts page by clicking Invite C
 
 ## Edit Contact
 
-User could edit any new contact using the Edit icon.
+User could edit any contact using the Edit icon.
 
 ![Edit Contact](/images/contacts3.jpg)
 
 ## Delete Contact
 
-User could delete any new contact using the Delete icon.
+User could delete any contact using the Delete icon.
 
 ![Delete Contact](/images/contacts5.jpg)
