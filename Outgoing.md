@@ -11,6 +11,8 @@ From the Outgoing Requests page, requests for compliance can be sent.
 
 ![Request Compliance](/images/outgoing2.jpg)
 
+When a request is sent to an Affiliate, they will create a profile and share their required certificate.
+
 # Edit Request
 
 Text text
