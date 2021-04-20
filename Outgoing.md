@@ -7,7 +7,7 @@ The results of the search will be displayed on the Outgoing Requests page.
 
 # Request Compliance
 
-Text text
+From the Outgoing Requests page, requests for compliance can be sent.
 
 ![Request Compliance](/images/outgoing2.jpg)
 
