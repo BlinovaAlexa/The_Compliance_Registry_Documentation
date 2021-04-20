@@ -7,15 +7,15 @@ The results of the search will be displayed on the Global Network Search page.
 
 ## Add Affiliates
 
-Text text
+On the Global Network page, the user can add new Affiliates and request their compliance by clicking the Add Affiliates button.
 
 ![Add Affiliates](/images/global2.jpg)
 
-View Contact
+Also user could view contact for any company
 
 ![View Contact](/images/global3.jpg)
 
-Unlink
+Unlink icon allows user to remove the document from his network
 
 ![Unlink](/images/global4.jpg)
 
