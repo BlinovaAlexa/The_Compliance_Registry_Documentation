@@ -9,18 +9,18 @@ The results of the search will be displayed on the Documents page.
 
 ## New Document
 
-Text text
+User could add a new document using the New button.
 
 ![New Document](/images/documents2.jpg)
 
 ## Edit Document
 
-Text text
+User could edit any document using the Edit icon.
 
 ![Edit Document](/images/documents3.jpg)
 
 ## Delete Document
 
-Text text
+User could delete any document using the Delete icon.
 
 ![Delete Document](/images/documents4.jpg)
