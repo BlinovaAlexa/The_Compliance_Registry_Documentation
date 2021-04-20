@@ -6,6 +6,6 @@ From that page, a user can navigate to the My Network page, Inbound page, Outgoi
 ![My Risk](/images/myrisk1.jpg)
 
 
-View contact
+Also user could view contact for any document
 
 ![View Contact](/images/myrisk2.jpg)
