@@ -13,9 +13,9 @@ Text text
 
 ## Invite Contact
 
-Text text
+Contacts can be invited to the system via the Contacts page by clicking Invite Contacts.  
 
-![Edit Contact](/images/contacts4.jpg)
+![Invite Contact](/images/contacts4.jpg)
 
 ## Edit Contact
 
