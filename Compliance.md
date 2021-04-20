@@ -13,12 +13,12 @@ On the Compliance page, the user can add a new compliance by clicking the New bu
 
 ## Edit Compliance
 
-User could edit any new compliance using the Edit icon.
+User could edit any compliance using the Edit icon.
 
 ![Edit Compliance](/images/compliance3.jpg)
 
 ## Delete Compliance
 
-User could delete any new compliance using the Delete icon.
+User could delete any compliance using the Delete icon.
 
 ![Edit Compliance](/images/compliance4.jpg)
