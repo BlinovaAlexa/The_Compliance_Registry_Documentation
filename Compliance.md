@@ -7,18 +7,18 @@ The results of the search will be displayed on the Compliance page.
 
 ## New Compliance
 
-Text text
+On the Compliance page, the user can add a new compliance by clicking the New button.
 
 ![Edit Compliance](/images/compliance2.jpg)
 
 ## Edit Compliance
 
-Text text
+User could edit any new compliance using the Edit icon.
 
 ![Edit Compliance](/images/compliance3.jpg)
 
 ## Delete Compliance
 
-Text text
+User could delete any new compliance using the Delete icon.
 
 ![Edit Compliance](/images/compliance4.jpg)
