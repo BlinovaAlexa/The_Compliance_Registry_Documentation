@@ -21,20 +21,18 @@ Unlink icon allows user to remove the document from his network
 
 ## View Company
 
-Text text
+View icon allows user to view selected company
 
 ![View Company](/images/global5.jpg)
 
 ### Request Compliance
 
-Text text
+From the View Company page, requests for compliance can be sent.
 
 ![Request Compliance](/images/global6.jpg)
 
-View Contact
+When a request is sent to an Affiliate, they will create a profile and share their required certificate.
 
-![View Contact](/images/global7.jpg)
-
-Unlink
+Unlink icon allows user to remove the document from his network
 
 ![Unlink](/images/global8.jpg)
