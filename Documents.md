@@ -7,13 +7,16 @@ The results of the search will be displayed on the Documents page.
 
 ![Documents](/images/documents1.jpg)
 
-A draft label for non-published documents visually highlights documents. 
+A draft label for non-published documents visually highlights documents.
 
 ## New Document
 
 User could add a new document using the New button.
 
 ![New Document](/images/documents2.jpg)
+
+The default state of toggle is Draft (unpublished). 
+While the document is Draft, its file can be re-uploaded (changed). Also those documents are not displayed on the network search page. The Draft toggle can be changed from Draft to Published while uploading new document (immediately publishing) and while editing not yet published documents (postpended publishing).
 
 ## Edit Document
 
