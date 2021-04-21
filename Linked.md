@@ -27,7 +27,9 @@ When the user uploads and publishes a new document, the document is automaticall
 
 ## View Linked Company
 
-View icon allows user to view selected company
+View icon allows user to view selected company.
+
+The page shows all documents that are available (linked and unlinked) for the current user company, company contacts and company info. 
 
 ![View Linked Company](/images/mynetwork5.jpg)
 
