@@ -2,6 +2,8 @@
 
 The My Network Search page shows the Affiliate and their current status.  
 
+The My Network Search page shows only documents directly linked to the company (explicitly linked alien company’s documents and documents belonging to the company). If no document is found, the page suggests trying the search on the GLOBAL network.
+
 Search allows the user to look for company,certification, version and status.  
 The results of the search will be displayed on the My Network page.
 
