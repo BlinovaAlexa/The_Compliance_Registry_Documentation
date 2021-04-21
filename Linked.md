@@ -21,6 +21,8 @@ Unlink icon allows user to remove the document from his network
 
 ![Unlink](/images/mynetwork4.jpg)
 
+When the user uploads and publishes a new document, the document is automatically included in the company network. In some cases, the user uploads the documents by request for another companies. It does not mean that it must be a part of the own risk network. So, now the user can remove own documents from own network. 
+
 ## View Linked Company
 
 View icon allows user to view selected company
@@ -42,3 +44,5 @@ Also user could view contact for any document
 Unlink icon allows user to remove the document from his network
 
 ![Unlink](/images/mynetwork8.jpg)
+
+When the user uploads and publishes a new document, the document is automatically included in the company network. In some cases, the user uploads the documents by request for another companies. It does not mean that it must be a part of the own risk network. So, now the user can remove own documents from own network. 
