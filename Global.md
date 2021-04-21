@@ -1,6 +1,9 @@
 # Global Network Search
 
-Search allows the user to look for company,certification, version and status.  
+Search allows the user to look for company,certification, version and status. 
+
+The Global Network Search page shows all as the My Network (Linked) page and documents available to be linked to the company.
+
 The results of the search will be displayed on the Global Network Search page.
 
 ![Global Network Search](/images/global1.jpg)
