@@ -7,6 +7,8 @@ The results of the search will be displayed on the Documents page.
 
 ![Documents](/images/documents1.jpg)
 
+A draft label for non-published documents visually highlights documents. 
+
 ## New Document
 
 User could add a new document using the New button.
