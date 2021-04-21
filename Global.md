@@ -33,9 +33,15 @@ From the View Company page, requests for compliance can be sent.
 
 ![Request Compliance](/images/global6.jpg)
 
-When a request is sent to an Affiliate, they will create a profile and share their required certificate.
+Requests can be created as a group of requests with up to 10 items per group. Items could be added using ADD ITEM button.
 
-Also user could view contact for any document
+After the user selected a company from the company autocomplete list, the company fields (name, emails, phone) became read-only. To reset the selected company, the user needs to click X icon next to selected company name.
+
+To create a request for a company that is not yet registered, the user does not have to select a company from the company autocomplete list (just to ignore the autocomplete suggestions). In this case, the user can edit the company fields (name, email, phone).
+
+When user creates a new request (or a group of requests), the system schedules sending related notifications in 10 minutes. When a request is sent to an Affiliate, they will create a profile and share their required certificate.
+
+Also user could view contact for any document.
 
 ![View Contact](/images/global7.jpg)
 
