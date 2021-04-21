@@ -24,6 +24,9 @@ User could edit any document using the Edit icon.
 
 ![Edit Document](/images/documents3.jpg)
 
+The Edit Document popup allows to upload new documents and to edit existing and linking them to related compliances requests from the inbound requests page. 
+The document (and its request) can be edited while it is not published.
+
 ## Delete Document
 
 User could delete any document using the Delete icon.
