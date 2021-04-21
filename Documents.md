@@ -24,3 +24,5 @@ User could edit any document using the Edit icon.
 User could delete any document using the Delete icon.
 
 ![Delete Document](/images/documents4.jpg)
+
+The warning is displayed for documents if the document is used by more than one company. 
