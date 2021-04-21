@@ -15,6 +15,11 @@ User could add a new document using the New button.
 
 ![New Document](/images/documents2.jpg)
 
+Visibility property:
+- Private (default mode) - the document is visible only to the company
+- My Network– the document is visible to the company and affiliates
+- Public – the document is visible for everyone
+
 The default state of toggle is Draft (unpublished). 
 While the document is Draft, its file can be re-uploaded (changed). Also those documents are not displayed on the network search page. The Draft toggle can be changed from Draft to Published while uploading new document (immediately publishing) and while editing not yet published documents (postpended publishing).
 
