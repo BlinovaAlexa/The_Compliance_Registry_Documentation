@@ -10,6 +10,8 @@ The results of the search will be displayed on the My Network page.
 
 ![My Network](/images/mynetwork1.jpg)
 
+The document can be downloaded right from the search result page.
+
 ## Add Affiliates
 
 On the My Network page, the user can add new Affiliates and request their compliance by clicking the Add Affiliates button.  
