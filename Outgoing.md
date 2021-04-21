@@ -5,6 +5,8 @@ The results of the search will be displayed on the Outgoing Requests page.
 
 ![Outgoing Requests](/images/outgoing1.jpg)
 
+Non-published requests are  displayed at the top of the list so the most important requests are always at the top.
+
 # Request Compliance
 
 From the Outgoing Requests page, requests for compliance can be sent.
