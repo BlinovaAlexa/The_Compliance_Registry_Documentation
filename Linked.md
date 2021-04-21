@@ -39,6 +39,8 @@ The page shows all documents that are available (linked and unlinked) for the cu
 
 ![View Linked Company](/images/mynetwork5.jpg)
 
+The document can be downloaded right from the View Linked Company page.
+
 ### Request Compliance
 
 From the View Company page, requests for compliance can be sent.
