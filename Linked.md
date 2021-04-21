@@ -43,6 +43,8 @@ To create a request for a company that is not yet registered, the user does not 
 
 When user creates a new request (or a group of requests), the system schedules sending related notifications in 10 minutes. When a request is sent to an Affiliate, they will create a profile and share their required certificate.
 
+Also user could view contact for any document.
+
 ![View Contact](/images/mynetwork7.jpg)
 
 Unlink icon allows user to remove the document from his network
