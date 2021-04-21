@@ -36,6 +36,8 @@ The page shows all documents that are available (linked and unlinked) for the cu
 
 ![View Company](/images/global5.jpg)
 
+The document can be downloaded right from the View Company page.
+
 ### Request Compliance
 
 From the View Company page, requests for compliance can be sent.
