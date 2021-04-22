@@ -1,28 +1,3 @@
-## Welcome to GitHub Pages 7
-
-**Menu:**
-
-- Profile
-  - [Profile](Profile.md)
-  - [Password](Password.md)
-- Company
-  - [Contacts](Contacts.md)
-  - [Departments](Departments.md)
-  - [Company](Company.md)
-  - [Compliance](Compliance.md)
-- [My Risk](MyRisk.md)
-- Network
-  - [Linked](Linked.md)
-  - [Global](Global.md)
-- [Documents](Documents.md)
-- [Outgoing](Outgoing.md)
-- Diagnostic
-  - [Control Panel](ControlPanel.md)
-- 
-  - [](.md)
-  - [](.md)
-
-
 # Overview
 
 The Compliance Registry is a centralized compliance risk management system.  The Registry will simplify and streamline management of the compliance certifications for an organization’s suppliers, vendors, partners and customers (affiliates).  
