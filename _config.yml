@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: [The Compliance Registry]
 description: [version 1.0
-**Menu:**
+
 - Profile
   - [Profile](Profile.md)
   - [Password](Password.md)
