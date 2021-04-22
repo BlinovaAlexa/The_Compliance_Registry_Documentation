@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: [The Compliance Registry]
-description: [version 1.0]
+description: [version 1.0
 
 **Menu:**
 
@@ -20,4 +20,4 @@ description: [version 1.0]
 - [Documents](Documents.md)
 - [Outgoing](Outgoing.md)
 - Diagnostic
-  - [Control Panel](ControlPanel.md)
+  - [Control Panel](ControlPanel.md)]
