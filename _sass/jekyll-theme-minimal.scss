@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #db7093;
+  background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#000;
   margin:0 0 20px;
 }
 
@@ -27,11 +27,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#000;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#000;
 }
 
 a {
@@ -119,7 +119,7 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:170px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -203,7 +203,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:170px;
   float:left;
   position:fixed;
   bottom:50px;
