@@ -23,7 +23,7 @@
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
         
         <div class="vertical-menu">
-          <a href="https://blinovaalexa.github.io/The_Compliance_Registry_Documentation/" class="active">Home</a>
+          <a href="https://blinovaalexa.github.io/The_Compliance_Registry_Documentation/">Home</a>
           <a href="https://blinovaalexa.github.io/The_Compliance_Registry_Documentation/Profile.html">Profile</a>
           <a href="https://blinovaalexa.github.io/The_Compliance_Registry_Documentation/Password.html">Password</a>
           <a href="https://blinovaalexa.github.io/The_Compliance_Registry_Documentation/Contacts.html">Contacts</a>
@@ -37,6 +37,17 @@
           <a href="https://blinovaalexa.github.io/The_Compliance_Registry_Documentation/Outgoing.html">Outgoing</a>
           <a href="https://blinovaalexa.github.io/The_Compliance_Registry_Documentation/ControlPanel.html">Control Panel</a>
         </div>
+        
+        <script type="text/javascript">
+           $('document').ready(function() {
+          $('.menu a').each(function() {
+             if ('http://site.ru'+$(this).attr('href') == window.location.href)
+            {
+             $(this).addClass('active');
+           }
+    });
+}); 
+ </script>
 
       </header>
       <section>
